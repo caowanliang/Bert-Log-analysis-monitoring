@@ -1,0 +1,24 @@
+{
+    "ignore_keywords": [
+        "告警触发器",
+        "sign检查错误",
+        "重复提交",
+        "当前登录用户已经失效",
+        "系统繁忙",
+        "工单状态已变更"
+    ],
+    "specific_keywords_increase": [
+        "",
+        "java.",
+        "sql"
+    ],
+    "specific_keywords_decrease": [
+        "receive msg",
+        "开始执行匹配条件",
+        "结束执行匹配条件",
+        "操作日志",
+        "strategy success",
+        "组装的数据",
+        "安全事件重复"
+    ]
+}
